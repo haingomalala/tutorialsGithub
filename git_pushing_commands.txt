@@ -1,0 +1,15 @@
+   13  docker-machine start default
+   14  docker-compose up
+   15  vim
+   16  docker-compose up
+   17  docker images
+   18  cd ~/tutorial_of_linux
+   19  git log
+   20  git remote add origin https://github.com/haingomalala/tutorialsGithub.git
+   21  git push --set-upstream origin master
+   22  hostory
+   23  history
+   24  history |less
+   25  history |head
+   26  history |tail -15
+   27  history |tail -15 > git_pushing_commands.txt

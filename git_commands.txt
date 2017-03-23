@@ -1,0 +1,77 @@
+    1  mkdir
+    2  mkdir tutorial_of_linux
+    3  cd tutorial_of_linux/
+    4  pwd
+    5  cd .
+    6  pwd
+    7  mdkir a b c d e f
+    8  mkdir a b c d e f
+    9  ls
+   10  ls -l
+   11  touche file1
+   12  touch file1
+   13  ls lah
+   14  touch text_file.txt
+   15  ls
+   16  cat text_file.txt
+   17  cat text_file.txt
+   18  wc -l text_file.txt
+   19  ls -l
+   20  ls -a
+   21  ls
+   22  list_of_files.txt
+   23  ls
+   24  ls >list_of_files.txt
+   25  cat list_of_files.txt
+   26  wc -l list_of_files.txt
+   27  ls | wc -l
+   28  ls /c/Program | wc -l
+   29  ls /c/Programfiles | wc -l
+   30  ls /c/Program\files | wc -l
+   31  ls file*
+   32  rm file*
+   33  ls
+   34  cat text_file.text
+   35  cat text_file.txt
+   36  head text_file.txt
+   37  tail text_file.txt
+   38  ls
+   39  cp my_file my_copied_file
+   40  touch my_file
+   41  cp my_file my_copied_file
+   42  ls
+   43  vim my_copied_file_
+   44  ps -ef
+   45  mkdir my_project
+   46  pwd
+   47  cat fichier.txt
+   48  git init
+   49  ls
+   50  ls -a
+   51  git status
+   52  git add .
+   53  git status
+   54  git commit -m "First commit of my files"
+   55  git commit -m "First commit of my files"
+   56  git commit -m "First commit of my files"
+   57  git config --global user.email "malalaaingo@gmail.com"
+   58  git config --global user.name "haingomalala"
+   59  git commit -m "First commit of my files"
+   60  git log
+   61  git status
+   62  git diff
+   63  git add .
+   64  git status
+   65  git commit -m "some new lines in fichier"
+   66  git status
+   67  git add .
+   68  git status
+   69  git commit -m "My little secret..."
+   70  git status
+   71  git log
+   72  git status
+   73  git checkout -- .
+   74  git log
+   75  history
+   76  history >git_commands.txt
+   77  history > git_commands.txt
